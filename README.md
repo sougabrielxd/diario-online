@@ -17,7 +17,7 @@ Diário online Full-Stack com Python e Django
 Clone o repositório:
 
 bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git clone https://github.com/seu-usuario/diario-online.git
 cd nome-do-projeto
 `
 
