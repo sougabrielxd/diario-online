@@ -1,4 +1,4 @@
-# 📦 Diário Online
+# Diário Online
 
 Diário online Full-Stack com Python e Django
 
@@ -9,10 +9,10 @@ Diário online Full-Stack com Python e Django
 - Mysql <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 - Html <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-## 📸 Demonstração
+## Demonstração
 
 
-## 🛠 Instalação
+## Instalação
 
 Clone o repositório:
 
@@ -37,7 +37,7 @@ npm run dev
 python main.py
 
 
-## 🧪 Testes
+## Testes
 
 Rode os testes com:
 
@@ -53,7 +53,7 @@ pytest
 
 
 
-## 🧑‍💻 Contribuindo
+## Contribuindo
 
 1. Fork este repositório
 2. Crie sua branch: git checkout -b minha-feature
@@ -61,10 +61,10 @@ pytest
 4. Push para a branch: git push origin minha-feature
 5. Crie um Pull Request
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 🙋‍♂ Autor
+## Autor
 
 Desenvolvido por [Pythonando](https://github.com/sougabrielxd) 🚀
